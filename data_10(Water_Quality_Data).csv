@@ -1,0 +1,28 @@
+﻿Site ,Replicate Number,Habitat Type,Date,Latitude,Longitude,Water Temperature (∞C),Average Water Temperature (C),DO (ppm),Average DO (ppm),pH ,Average pH,Salinity (ppt),Average Salinity (ppt),Air Temperature (C),Tide,Weather,Wind Speed
+HC1,1,Mangrove,3/9/25,29.90258 N,81.31085 W,16.7,16.6,6.73,6.77,7.93,7.92,37,37.67,17.77,"Mid, ebb",Cloudy ,4 mph SW
+HC1,2,Mangrove,,,,16.6,,6.76,,7.91,,37,,,,,
+HC1,3,Mangrove,,,,16.5,,6.83,,7.91,,39,,,,,
+HC2,1,Saltmarsh,3/13/25,29.90477 N,81.31293 W,19.5,19.6,7.84,7.98,7.16,7.36,37,39,22.67,"Low, ebb",Sunny ,6 mph NE
+HC2,2,Saltmarsh,,,,20.1,,8.16,,7.4,,39,,,,,
+HC2,3,Saltmarsh,,,,19.4,,7.93,,7.53,,41,,,,,
+LP1,1,Mangrove,3/2/25,29.83093 N,81.30518 W,17.5,17.53,8.02,8.03,7.93,7.96,34,34.33,17.78,"High, ebb","Sunny, windy",14 mph S
+LP1,2,Mangrove,,,,17.5,,8.01,,7.97,,35,,,,,
+LP1,3,Mangrove,,,,17.6,,8.06,,7.99,,34,,,,,
+LP2,1,Saltmarsh,2/25/25,29.83202 N,81.30532 W,18.6,17.87,7.98,7.97,7.79,7.58,29,29,16.67,"Low, flood","Cloudy, windy, rainy",12 mph SW
+LP2,2,Saltmarsh,,,,17.6,,7.94,,7.28,,29,,,,,
+LP2,3,Saltmarsh,,,,17.4,,8,,7.68,,29,,,,,
+A1A,1,Mangrove,3/2/25,29.91071 N,81.31360 W,17.5,17.5,8.07,8.06,8.13,8.14,36,37.67,18.33,"High, ebb","Sunny, windy",14 mph S
+A1A,2,Mangrove,,,,17.5,,8.04,,8.14,,38,,,,,
+A1A,3,Mangrove,,,,17.5,,8.08,,8.15,,39,,,,,
+A1A,1,Saltmarsh,2/27/25,29.80986 N,81.31303 W,21,20.53,8.35,8.42,7.91,7.95,36,36.33,23.33,"Low, flood",Slightly cloudy,7 mph NE
+A1A,2,Saltmarsh,,,,20.6,,8.56,,7.95,,35,,,,,
+A1A,3,Saltmarsh,,,,20,,8.34,,8,,38,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
